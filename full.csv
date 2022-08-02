@@ -1,18 +1,18 @@
-CountryName,MealName,Ranking,IGLink,lat,lng
-Latvia,Auksta Zupa (Cold Beet Soup) and Karbonade ( Mushroom Pork Cutlet),6.5/10 and 9/10,https://www.instagram.com/p/Cew0QrZl-bA/?hl=en,56.879635,24.603189
-Mozambique,Peri Peri Chicken,10/10,https://www.instagram.com/p/Ce1dEAZF1Pa/?hl=en,-18.665695,35.529564
-The Bahamas,Conch Fritters and Fried Red Snapper,8/10 and 7/10,https://www.instagram.com/p/CfRzVWKFT1S/?hl=en,25.046591,-77.376602
-Palau,Ukoy (Shrimp and Mung Bean Fritters),5/10,https://www.instagram.com/p/CfXQKCoF-am/?hl=en,7.514980,-134.582520
-Greece,"Moussaka (A layered eggplant, ground meat, and béchamel dish)",7/10,https://www.instagram.com/p/CfeZ54glZs_/?hl=en,39.074207,21.824312
-Chile,Completos Italiano (Italian style street hot dogs) and Sopaipillas (Fried Pumpkin Donuts),9/10 and 9/10,https://www.instagram.com/p/CfmMJOfl1mp/?hl=en,-35.675147,-71.542969
-Italy,Veal Saltimbocca alla Romana (Thin veal cutlets with prosciutto in a silky sage sauce) and Panzanella (Bread and tomato salad) ,7/10 and 10/10,https://www.instagram.com/p/Cfw3KlYFYSf/?hl=en,41.87194,12.56738
-Nauru,Coconut Fried Fish and Sweet Potato Fries,4/10,https://www.instagram.com/p/CfsJ0wlFSk8/?hl=en,-0.522778,166.931503
-Comoros,Mishakiki (Barbecued meat skewers marinated in papaya),6.5/10,https://www.instagram.com/p/Cf2M1ETFyUh/?hl=en,-11.875001,43.872219
-Ghana,Red Red (Black eyed pea and tomato stew served with fried plantains),10/10,https://www.instagram.com/p/Cf7ywd3jeMf/?hl=en,7.946527,-1.023194
-Lithuania,Cepelinai (Boiled meat and potato dumplings),1/10,https://www.instagram.com/p/CgH6L0uFycK/?hl=en,55.169438,23.881275
-Togo,	Gboma Dessi with Fufu (Spinach and chicken stew served with a cassava and plantain dough),	10/10,	https://www.instagram.com/reel/CgKwjL9FFNo/?igshid=MDJmNzVkMjY=,	8.619543,	0.824782
-Marshall Islands,	Macademia Nut Pie with Coconut Cream,	7/10,	https://www.instagram.com/reel/CgNs14eFR_x/?igshid=MDJmNzVkMjY=,	7.131474,	171.184478
-Guinea,	Kansiye (Peanut and tomato beef stew),	5/10,	https://www.instagram.com/reel/CgVC0sNlzDe/?igshid=MDJmNzVkMjY=,	9.945587,	-9.696645
-El Salvador,	Pupusas with Salsa Roja, (Cheese + bean + chicharron filled corn pancakes),	10/10,	https://www.instagram.com/reel/Cgc0DjMlnDT/?igshid=MDJmNzVkMjY=,	13.794185,	-88.89653
-Rwanda,	Igisafuliya and Honey Bread (Leek + tomato + pepper + plantain stew served with honey milk bread),	5/10 and 10/10,	https://www.instagram.com/reel/Cgk94WjjuZf/?igshid=MDJmNzVkMjY=,	-1.940278,	29.873888
-South Korea,	Tteokbokki (Stewed spicy rice cakes with fish cake and scallion),	9/10,	https://www.instagram.com/reel/Cgsrl01jkAS/?igshid=MDJmNzVkMjY=,	35.907757,	127.766922
+CountryName,MealName,Ranking,IGLink,lat,lng,Column1
+Latvia,Auksta Zupa (Cold Beet Soup) and Karbonade ( Mushroom Pork Cutlet),6.5/10 and 9/10,https://www.instagram.com/p/Cew0QrZl-bA/?hl=en,56.879635,24.603189,
+Mozambique,Peri Peri Chicken,10/10,https://www.instagram.com/p/Ce1dEAZF1Pa/?hl=en,-18.665695,35.529564,
+The Bahamas,Conch Fritters and Fried Red Snapper,8/10 and 7/10,https://www.instagram.com/p/CfRzVWKFT1S/?hl=en,25.046591,-77.376602,
+Palau,Ukoy (Shrimp and Mung Bean Fritters),5/10,https://www.instagram.com/p/CfXQKCoF-am/?hl=en,7.514980,-134.582520,
+Greece,"Moussaka (A layered eggplant, ground meat, and béchamel dish)",7/10,https://www.instagram.com/p/CfeZ54glZs_/?hl=en,39.074207,21.824312,
+Chile,Completos Italiano (Italian style street hot dogs) and Sopaipillas (Fried Pumpkin Donuts),9/10 and 9/10,https://www.instagram.com/p/CfmMJOfl1mp/?hl=en,-35.675147,-71.542969,
+Italy,Veal Saltimbocca alla Romana (Thin veal cutlets with prosciutto in a silky sage sauce) and Panzanella (Bread and tomato salad) ,7/10 and 10/10,https://www.instagram.com/p/Cfw3KlYFYSf/?hl=en,41.87194,12.56738,
+Nauru,Coconut Fried Fish and Sweet Potato Fries,4/10,https://www.instagram.com/p/CfsJ0wlFSk8/?hl=en,-0.522778,166.931503,
+Comoros,Mishakiki (Barbecued meat skewers marinated in papaya),6.5/10,https://www.instagram.com/p/Cf2M1ETFyUh/?hl=en,-11.875001,43.872219,
+Ghana,Red Red (Black eyed pea and tomato stew served with fried plantains),10/10,https://www.instagram.com/p/Cf7ywd3jeMf/?hl=en,7.946527,-1.023194,
+Lithuania,Cepelinai (Boiled meat and potato dumplings),1/10,https://www.instagram.com/p/CgH6L0uFycK/?hl=en,55.169438,23.881275,
+Togo,Gboma Dessi with Fufu (Spinach and chicken stew served with a cassava and plantain dough),10/10,https://www.instagram.com/reel/CgKwjL9FFNo/?igshid=MDJmNzVkMjY=,8.619543,0.824782,
+Marshall Islands,Macademia Nut Pie with Coconut Cream,7/10,https://www.instagram.com/reel/CgNs14eFR_x/?igshid=MDJmNzVkMjY=,7.131474,171.184478,
+Guinea,Kansiye (Peanut and tomato beef stew),5/10,https://www.instagram.com/reel/CgVC0sNlzDe/?igshid=MDJmNzVkMjY=,9.945587,-9.696645,
+El Salvador,"Pupusas with Salsa Roja (Cheese,bean, and chicharron filled corn pancakes)",10/10,https://www.instagram.com/reel/Cgc0DjMlnDT/?igshid=MDJmNzVkMjY=,13.794185,-88.89653,
+Rwanda,"Igisafuliya and Honey Bread (Leek, tomato, pepper, and plantain stew served with honey milk bread)",5/10 and 10/10,https://www.instagram.com/reel/Cgk94WjjuZf/?igshid=MDJmNzVkMjY=,-1.940278,29.873888,
+South Korea,Tteokbokki (Stewed spicy rice cakes with fish cake and scallion),9/10,https://www.instagram.com/reel/Cgsrl01jkAS/?igshid=MDJmNzVkMjY=,35.907757,127.766922,
